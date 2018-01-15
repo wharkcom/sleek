@@ -1,0 +1,57 @@
+// Base
+.image-placeholder {
+  border: 1px dashed;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  min-height: 200px;
+  text-align: center;
+}
+
+// Helpers
+// Not sure if this is needed - what does it do?
+.title {
+  position: relative;
+  margin: 0 0 85px;
+  text-align: center;
+  text-transform: capitalize;
+
+  &::after {
+    position: absolute;
+    content: "";
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -8px;
+    width: 50px;
+    height: 2px;
+    background-color: $primary;
+  }
+}
+
+// Typography
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  &.alert {
+    font-size: 4em;
+  }
+}
+
+.boxed-text {
+  margin: 1.25rem;
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 5px;
+  background-color: rgba(0,150,136, 0.24);
+}
+
+.large {
+  font-size: large;
+}
+
+.text-center {
+  text-align: center;
+}

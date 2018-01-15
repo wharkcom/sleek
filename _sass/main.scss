@@ -8,13 +8,15 @@
 // 2. Vendors
 @import
   "vendor/normalize",
-  "vendor/breakpoint";
+  "vendor/breakpoint",
+  "vendor/bigfoot-number";
 
 // 3. Base
 @import
   "base/base",
   "base/typography",
-  "base/helpers";
+  "base/helpers",
+  "base/extensions";
 
 // 4. Layout
 @import
@@ -30,9 +32,11 @@
   "components/form",
   "components/modal",
   "components/table",
-  "components/syntax";
+  "components/syntax",
+  "components/extensions";
 
 // 6. Page-specific styles
 @import
   "pages/page",
-  "pages/post";
+  "pages/post",
+  "pages/extensions";
