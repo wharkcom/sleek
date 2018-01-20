@@ -1,3 +1,4 @@
+<!-- Set person from include, if specified, or page author -->
 {% if include.author %}
 	{% assign author = site.data.people[include.author] %}
 {% elsif page.author %}
@@ -6,25 +7,28 @@
 	{% assign error = true %}
 {% endif %}
 
+<!-- Placement of the image on the left or right -->
 {% if include.style %}
 	{% assign style = include.style %}
 {% else %}
-	{% assign style = "left" %}
+	{% assign style = "img-left" %}
 {% endif %}
 
 {% if error %}
 <p class="error">Error: No author is specified</p>
 
 {% else %}
-<div class="about-block">
-	<div class="pull-left">
-		<img src="{{author.pic}}" alt="{{author.name}}" />
-	</div>
-	<div class="pull-right">
-		<div class="name"><strong>{{author.name}}</strong></div>
-		<p>{{author.about}}</p>
+<div class="card about-block">
+<!-- 	<div class="image-wrap"> -->
+	<img src="{{author.pic}}" alt="{{author.name}}" class="{{style}}"/>
+	<!-- </div> -->
+	<div class="person-meta">
+		<div class="bio-wrap">
+			<h2 class="name"><strong>{{author.name}}</strong></h2>
+			<p>{{author.about}}</p>
+		</div>
 		{% if author.links %}
-			<ul class="rlist--inline">
+			<ul class="person-links rlist--inline">
 			{% for link in author.links %}
 				<li>
 					<a href="{{link.link}}">{{link.name}}</a>

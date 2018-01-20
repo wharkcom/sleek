@@ -3,11 +3,31 @@ layout: page
 title: About
 permalink: /about/
 ---
+# The Humans
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+{% include person.html author="Will" %}
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+{% include person.html author="Sushila" style="img-right" %}
 
-You can find the source code for Jekyll at
+# The Kitties
+
+{% include person.html author="Ollie" %}
+
+{% include person.html author="Mango" style="img-right" %}
+
+# The Truck
+Our truck is a 2011 Dodge Ram 3500 Laramie edition.
+
+# The RV
+Coming soon!
+
+# The Site
+This site is built on the Sleek theme for Jekyll. You can find the source code for Sleek at GitHub:
+[Sleek](https://github.com/janczizikow/sleek)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll

@@ -4,6 +4,78 @@
 	}
 }
 
+// Lists
 .list-center {
 	margin: 1.25rem auto;
+}
+
+.rlist--inline {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+	>li {
+		display: inline-block;
+	}
+}
+
+// Card
+.card {
+	border: 1px solid rgba(0, 0, 0, 0.08);
+	border-radius: 4px;
+  overflow: hidden;
+  background-color: $bg-color;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  margin-bottom: 5.26316%;
+  border-bottom: 0;
+  transition: box-shadow .25s ease;
+
+  &:hover,
+  &:focus {
+    border-bottom: 0;
+    box-shadow: 0 2px 40px 0 hsla(232, 8%, 63%, .3);
+  }
+
+}
+
+// Person Component
+.about-block {
+	// Temp borders for layout work
+	// border: 1px dashed green;
+	// div, p {
+	// 	border: 1px dashed black;
+	// }
+
+	//Final CSS
+	display: flex;
+	align-items: stretch;
+	margin: 1.25rem 0;
+
+	img {
+		margin: 10px;
+		object-fit: contain;
+		overflow: hidden;
+		max-width: 400px;
+		max-height: 300px;
+		flex-shrink: 0;
+
+		&.img-right {
+			order: 2;
+		}
+	}
+	.person-meta {
+		margin: 10px 20px;
+		flex-grow: 2;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+
+	.person-links {
+		margin: 10px;
+
+		a {
+			margin: 0 10px;
+		}
+	}
 }

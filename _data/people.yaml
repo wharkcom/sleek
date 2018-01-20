@@ -1,29 +1,31 @@
 Will: 
   name: Will
   pic: "/assets/img/people/will.jpg"
-  about: "This is some text about Will."
+  about: "Will suffers from serious FOMO and is extremely vulnerable to peer-pressure, but he considers that a positive trait. He believes Elon Musk is his lord and savior and hopes to one day visit Mars.  He thinks happy hour should be celebrated every day and never says no to a good cocktail. Will enjoys sailing, reading the internet, photography, videography, science, technology and design. and strategically planned his life around being able to wear t-shirts every day."
   links:
     - name: "Facebook"
-      link: "/link/to/facebook"
+      link: "https://www.facebook.com/William.Harkcom"
     - name: "Instagram"
-      link: "/link/to/instagram"
+      link: "https://www.instagram.com/wharkcom/"
 
 Sushila:
   name: Sushila
   pic: "/assets/img/people/sushila.jpg"
-  about: "This is some text about Sushila."
+  about: "Sushila lives by the motto, 'Any time is nap time.' She is a brilliant scientist but wants to be a bear when she grows up. She enjoys code, art, and design and once created a robot that could draw. Each Thanksgiving, she declares that she is thankful for the internet. She prefers to spend her days laying in bed, reading, and watching Youtube videos about kittens, math, and making things."
   links:
     - name: "Facebook"
-      link: "/link/to/facebook"
+      link: "https://www.facebook.com/sushila.shenoy"
     - name: "Instagram"
-      link: "/link/to/instagram"
+      link: "https://www.instagram.com/sushilashenoy/"
+    - name: "Twitter"
+      link: "https://twitter.com/sushilashenoy"
 
 Ollie:
   name: Ollie
   pic: "/assets/img/people/ollie.jpg"
-  about: "This is some text about Ollie."
+  about: "Ollie is a professional bag inspector and amateur paranormal investigator. He enjoys pouncing and ankle biting, and he still isn't 100% convinced that getting a brother was a good idea. He's an adventure cat at heart, but he hasn’t quite realized it yet."
 
 Mango:
   name: Mango
   pic: "/assets/img/people/mango.jpg"
-  about: "This is some text about Mango."
+  about: "Mango is a misunderstood cuddle monster who wants to do everything his older brother does. He thinks head-butts and face licks are an appropriate way to wake his parents up at 4 am. Since learning that being orange is sufficient qualification, he hopes to someday be the President of the United States."
