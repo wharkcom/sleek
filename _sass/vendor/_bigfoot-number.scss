@@ -193,7 +193,7 @@ $button-transition-properties:      background-color !default;
 .bigfoot-footnote__button {
   // POSITIONING
   position: relative;
-  z-index: 5;
+  z-index: 4;
   top: $button-vertical-adjust;
 
   // DISPLAY AND SIZING
