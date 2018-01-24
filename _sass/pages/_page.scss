@@ -61,7 +61,7 @@
   .hero__title {
     color: $bg-color;
 
-    @include breakpoint($md) {
+    @include breakpoint($sm) {
       font-size: 2.625em;
       line-height: 3.125rem;
     }

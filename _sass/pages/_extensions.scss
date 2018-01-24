@@ -6,10 +6,10 @@
   &__home {
     background-position-y: 0;
     background-position-x: 20%;
-    background: rgba(52,56,81,0.8);
+    background-color: rgba(52,56,81,0.8);
 
     &::before {
-      background: rgba(75, 54, 117, 0.25);
+      background-color: rgba(75, 54, 117, 0.25);
     }
   }
 
@@ -24,7 +24,18 @@
       background-position-y: 40px;
     }
   }
+}
 
+.hero__wrap {
+  width: 15em;
+
+  @include breakpoint($sm) {
+    width: 30em;
+  }
+
+  .hero__title {
+    line-height: 1.2em;
+  }
 }
 
 
@@ -79,4 +90,10 @@ blockquote {
     font-size: smaller;
     font-weight: 500;
   }
+}
+
+.center-img {
+  display: block;
+  margin: 0 auto;
+  border: 2px solid $outline-dark;
 }

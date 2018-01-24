@@ -22,6 +22,11 @@ social:
     # - https://plus.google.com/+BenBalter
     # - https://github.com/benbalter
     # - https://keybase.io/benbalter
+    
+google_tag_manager: GTM-5JDH493
+maps:
+  google:
+    api_key: AIzaSyBf0W1mqSatygIi57oxnliRIOlu933aNVU
 
 # disqus:
 #   shortname: janczizikow # to enable comments replace with your_disqus_shortname
@@ -51,3 +56,4 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-maps
