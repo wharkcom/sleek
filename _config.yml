@@ -3,12 +3,11 @@ subtitle: A blog about traveling with adventure cats.
 author: William Harkcom
 email: your-email@domain.com # email for form submission, you also have to change it in _js/scripts.js
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A blog about quitting our jobs, buying an RV, and traveling the country for a year with our adventure cats.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://adventure.headasplode.net" # the base hostname & protocol for your site, e.g. http://example.com
 image_path: "/assets/img/posts"
+logo: "/assets/img/logo.svg"
 
 # twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
 # github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
