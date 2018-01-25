@@ -14,7 +14,7 @@ logo: "/assets/img/logo.svg"
 instagram_username: wharkcom # replace with your_instagram_username or comment to remove link from footer
 facebook_username: William.Harkcom
 facebook:
-  facebook:app_id: 1775010079200386
+  app_id: 1775010079200386
 social:
   name: William Harkcom
   links:
