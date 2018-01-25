@@ -13,14 +13,12 @@ logo: "/assets/img/logo.svg"
 # github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
 instagram_username: wharkcom # replace with your_instagram_username or comment to remove link from footer
 facebook_username: William.Harkcom
+facebook:
+  facebook:app_id: 1775010079200386
 social:
   name: William Harkcom
   links:
     - https://www.facebook.com/William.Harkcom
-    # - https://www.linkedin.com/in/BenBalter
-    # - https://plus.google.com/+BenBalter
-    # - https://github.com/benbalter
-    # - https://keybase.io/benbalter
     
 google_tag_manager: GTM-5JDH493
 maps:
