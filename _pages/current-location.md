@@ -11,4 +11,4 @@ We're currently located in New York, NY.
 
 <img src="/assets/img/location.jpg" alt="current location" class="center-img"/>
 
-<!-- {% google_map %} -->
+{% google_map %}
