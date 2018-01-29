@@ -48,8 +48,15 @@
 
 	//Final CSS
 	display: flex;
-	align-items: stretch;
 	margin: 1.25rem 0;
+	flex-wrap: wrap;
+	justify-content: center;
+
+	// Do not stack the image and text > than tablet
+	@include breakpoint($md) {
+		align-items: stretch;
+		flex-wrap: nowrap;
+	}
 
 	img {
 		margin: 10px;
@@ -59,8 +66,13 @@
 		max-height: 300px;
 		flex-shrink: 0;
 
+		// The image should be on top on mobile but shift right on large screens
 		&.img-right {
-			order: 2;
+			order: 1;
+
+			@include breakpoint($md) {
+				order: 2;
+			}
 		}
 	}
 	.person-meta {
@@ -69,10 +81,16 @@
 		display: flex;
 		flex-direction: column;
 		justify-content: space-between;
+		order: 2;
+
+		@include breakpoint($md) {
+			order: 1;
+		}
 	}
 
 	.person-links {
 		margin: 10px;
+		text-align: center;
 
 		a {
 			margin: 0 10px;
