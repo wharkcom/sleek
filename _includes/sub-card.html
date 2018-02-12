@@ -1,0 +1,19 @@
+<div class="post-card card--small flex flex--column flex--between">
+	<div class="image-wrap flex flex--column flex--center flex--grow-1">
+		<img 
+			src="{{site.image_path}}/{{include.source}}/{{include.image}}"
+			alt="{{include.alt}}"
+			class="lazyload blur"
+		/>
+	</div>
+	<div class="post-card__inner">
+		<div class="post-card__header">
+			<h2>{{include.title}}</h2>
+		</div>
+		{% if include.description %}
+		<p>
+			{{include.description}}
+		</p>
+		{% endif %}
+	</div>
+</div>

@@ -78,3 +78,21 @@
     font-size: 0.875rem;
   }
 }
+
+// Sub Card CSS
+.post-card.card--small {
+  background-color: $light-bg-color;
+  min-height: 200px;
+
+  &.flex {
+    display: flex;
+  }
+
+  img {
+    margin: 10px;
+  }
+
+  .post-card__header {
+    text-align: center;
+  }
+}

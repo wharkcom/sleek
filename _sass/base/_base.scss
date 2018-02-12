@@ -38,3 +38,30 @@ img::selection {
 figure {
   margin: 0;
 }
+
+.flex {
+  display: flex;
+  &--column {
+    flex-direction: column;
+  }
+  &--center {
+    justify-content: center;
+  }
+  &--between {
+    justify-content: space-between;
+  }
+  &--wrap {
+    flex-wrap: wrap;
+  }
+  &--grow {
+    &-0 {
+      flex-grow: 0;
+    }
+    &-1 {
+      flex-grow: 1;
+    }
+    &-2 {
+      flex-grow: 2;
+    }
+  }
+}
