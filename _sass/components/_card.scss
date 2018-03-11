@@ -83,6 +83,7 @@
 .post-card.card--small {
   background-color: $light-bg-color;
   min-height: 200px;
+  max-width: 300px;
 
   &.flex {
     display: flex;
@@ -90,9 +91,48 @@
 
   img {
     margin: 10px;
+    background: transparent;
   }
 
   .post-card__header {
     text-align: center;
+  }
+
+  @include breakpoint($xs) {
+    width: 48.4375%;
+    margin-right: 3.125%;
+
+    &:last-of-type,
+    &:nth-child(2n+2) {
+      margin-right: 0;
+    }
+  }
+
+  @include breakpoint($md) {
+    width: 31.25%;
+    margin-right: 3.125%;
+
+    &:nth-child(2n+2) {
+      margin-right: 3.125%;
+    }
+
+    &:last-of-type,
+    &:nth-child(3n+3) {
+      margin-right: 0;
+    }
+  }
+
+  @include breakpoint($xl) {
+    width: 31.25%;
+    margin-right: 3.125%;
+
+    &:nth-child(2n+2) {
+      margin-right: 3.125%;
+    }
+
+    &:last-of-type,
+    &:nth-child(3n+3) {
+      margin-right: 0;
+    }
   }
 }

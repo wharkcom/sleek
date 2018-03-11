@@ -60,15 +60,19 @@ blockquote {
   }
 }
 
-.bigfoot-footnote {
-  img {
-    margin: 0;
-  }
-  //Need something other than the image to force the footnote to expand the full width.
-  .image-hack {
-    margin: 0;
-    display: block;
-    width: 310px;
+.post-content {
+  .bigfoot-footnote {
+    img {
+      margin: 0 auto;
+      max-height: 205px;
+      max-width: 310px;
+    }
+    //Need something other than the image to force the footnote to expand the full width.
+    .image-hack {
+      margin: 0;
+      display: block;
+      width: 310px;
+    }
   }
 }
 
