@@ -1,0 +1,1396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"breadCr",
+				"breadcrumbList"
+			],
+			[
+				"over",
+				"overrideLabel"
+			],
+			[
+				"overr",
+				"overrideSystemGenerated"
+			],
+			[
+				"include",
+				"includeCurrentPage"
+			],
+			[
+				"browse",
+				"browsePublication"
+			],
+			[
+				"brea",
+				"breadcrumbList"
+			],
+			[
+				"mobile",
+				"mobileMenuLabel"
+			],
+			[
+				"claim",
+				"claimCreditLabel"
+			],
+			[
+				"n",
+				"needCredit"
+			],
+			[
+				"examAc",
+				"examActivityLabel"
+			],
+			[
+				"completedDa",
+				"completedDateLabel"
+			],
+			[
+				"expired",
+				"expiredLabel"
+			],
+			[
+				"expires",
+				"expiresDateLabel"
+			],
+			[
+				"publ",
+				"publishedDateLabel"
+			],
+			[
+				"moment",
+				"momentEnabled"
+			],
+			[
+				"eam-cert",
+				"exam-certificate-message__date"
+			],
+			[
+				"cre",
+				"creditsEarned"
+			],
+			[
+				"exam",
+				"exam-certificate-message"
+			],
+			[
+				"pr",
+				"prevNextContent"
+			],
+			[
+				"Title",
+				"Title"
+			],
+			[
+				"a",
+				"advanced-tab"
+			],
+			[
+				"pd",
+				"podcasts"
+			],
+			[
+				"pod",
+				"podcastList"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"carous",
+				"carousel-homepage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".git/config",
+			"settings":
+			{
+				"buffer_size": 692,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 38.0,
+		"last_filter": "git bl",
+		"selected_items":
+		[
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"svn bl",
+				"SVN: (File) Blame"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"git",
+				"Git: Log Current File"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git blm",
+				"Git: Blame"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git change",
+				"Git: Change Branch"
+			],
+			[
+				"git bran",
+				"Git: Change Branch"
+			],
+			[
+				"git branch",
+				"Git: Change Branch"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"Package Control:  di",
+				"Package Control: Disable Package"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git hunk",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"svn",
+				"SVN: (File) Blame"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"git branc",
+				"Git: New Branch"
+			],
+			[
+				"git reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git re",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git fetch",
+				"Git: Fetch"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"find",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"packagec",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ope",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 463.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"git",
+			"git branch",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Dev/Jekyll/sleek"
+	],
+	"file_history":
+	[
+		"/D/Drive/Documents/Games/Battle Net Recovery.txt",
+		"/D/Drive/Atypon/Great Bug Responses.txt",
+		"/C/Atypon/source/lit-1730/atypon/literatum/conf/spring/pb2/common/graphql-prototypes.xml",
+		"/C/Atypon/source/lit-1730/atypon/literatum/conf/spring/pb2/ux3/ux3-widgets.xml",
+		"/C/Atypon/source/lit-1730/atypon/literatum/conf/spring/pb2/literatum/literatum-widgets.xml",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/slideshow/templates/slideshow/slideshow-tmpl.jade",
+		"/C/Atypon/source/lit-1730/atypon/product/midtier/conf/midtier.props.raa.xml",
+		"/G/Drive/Atypon/~UX3/pb-assets/graphql/journal-banner/toc_title.pug",
+		"/G/Drive/Atypon/~UX3/pb-assets/graphql/journal-banner/toc_title.graphql",
+		"/G/Drive/Atypon/~UX3/pb-assets/graphql/journal-banner/secondary_nav.graphql",
+		"/G/Drive/Atypon/~UX3/pb-assets/graphql/journal-banner/secondary_nav.pug",
+		"/G/Drive/Atypon/~UX3/pb-assets/graphql/journal-banner/secondary_nav_right.pug",
+		"/G/Drive/Atypon/~UX3/pb-assets/graphql/pub-content-cover.pug",
+		"/G/Drive/Atypon/~UX3/pb-assets/graphql/pub-content-cover.graphql",
+		"/G/Drive/Atypon/~UX3/pb-assets/graphql/journal-banner/banner.pug",
+		"/G/Drive/Atypon/~UX3/pb-assets/graphql/journal-banner/banner.graphql",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/jsp/pb2/widgets/ux3-graphql/Discoverability/search-results/search-results.graphql",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/products/nejm/widgets/search-results/templates/search-results-tmpl.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/article-tools/templates/article-tools/article-tools-tmpl.jade",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/jsp/pb2/widgets/graphql/articleTools/articleTools.graphql",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/quick-search/templates/quick-search/quick-search-tmpl.jade",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/hbs/citationLine/issue/text/loi.hbs",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/node_modules/stylestats/assets/html.hbs",
+		"/C/Atypon/source/lit-1730/atypon/literatum/conf/spring/pb2/ux3/ux3-passport-widgets.xml",
+		"/C/Atypon/source/lit-1730/atypon/literatum/conf/spring/pb2/ux3/ux3-literatum-widgets.xml",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/publication-content/templates/article/article-tmpl.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/breadcrumbs/breadcrumbs-tmpl.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/index.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/book-chapter.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/book-default-series.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/book-data.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/journal-custom-page.json",
+		"/C/Atypon/source/lit-1730/atypon/literatum/conf/spring/pb2/ux3/ux3-deprecated-widgets.xml",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/content-item-override-current-label.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/list-of-issues.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/journal-home.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/table-of-contents.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/profile.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/variables/aliases/break-points.yaml",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/content-item-include-current-page.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/content-item-include-browse.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/content-item-include-archive.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/content-item-no-options.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/content-item-include-home.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/content-item-custom-links.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/templates/data/data.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/content-navigation/templates/data/content.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/breadcrumbs/info.json",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/products/aha/components/homepage-items/templates/multimedia-item-tmpl.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/products/aha/templates/home/index.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/table-of-content/js/table-of-content.js",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/jsp/pb2/widgets/passport/ContentGroup/TableOfContents/TableOfContents.xsl",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/xsl/_ux3/LitPb2_TOC.xsl",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/products/pericles/widgets/recommend-to-librarian/templates/recommend-to-librarian/recommend-to-librarian-tmpl.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/recommend-to-librarian/templates/recommend-to-librarian/recommend-to-librarian-tmpl.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/recommend-to-librarian/templates/data/data.json",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/xsl/xsl1.xsl",
+		"/C/Atypon/source/lit-1730/atypon/literatum/conf/spring/frontend/ecommerce-widgets.xml",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/jsp/_style2/_pagebuilder/_wspc/widgets/subscriptions.jsp",
+		"/C/Atypon/source/lit-1730/atypon/product/midtier/conf/midtier.props.pb2.ux3.xml",
+		"/C/Atypon/source/lit-1730/atypon/literatum/conf/spring/pb2/passport/passport-widgets.xml",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/jsp/pb2/widgets/passport/search/newSearchResults.jsp",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/jsp/pb2/widgets/passport/common/search/responsiveSearchResultHeader.jsp",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/jsp/_style2/_rsdTheme/_asce/pb2/widgets/passport/common/paging/paginationSortControl.jsp",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/jsp/pb2/widgets/passport/common/paging/paginationSortControl.jsp",
+		"/G/Drive/Documents/RSI TFA Backup Codes.txt",
+		"/G/Drive/Atypon/Useful_Info/Github TFA Backup Codes2.txt",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/manage-alerts/templates/manage-alerts/manage-alerts-tmpl.jade",
+		"/C/Users/William/Downloads/secondary_nav.pug",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/jsp/pb2/widgets/ux3-graphql/profiles/manageAlert.graphql",
+		"/C/Atypon/source/lit-1730/atypon/product/mag/conf/mag.spring.xml",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/122/children/123/children/124/children/198/context",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/122/children/123/children/124/children/214/context",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/122/children/123/children/124/children/195/context",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/122/children/123/children/124/children/195/scope",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/122/context",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/122/children/123/context",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/children/73/children/117/children/118/context",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/children/73/children/117/children/118/approved/changes",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/children/73/children/117/children/118/approved/revision",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/children/73/children/117/children/118/children/119/approved/changes",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/children/73/children/117/children/118/children/119/scope",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/children/73/children/117/children/118/children/119/children/120/scope",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/children/73/children/117/children/118/children/119/children/120/children/121/context",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/children/73/children/117/children/118/children/119/children/120/children/121/scope",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/children/73/children/117/approved/changes",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/children/73/children/117/children/118/children/119/context",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/context",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/children/73/context",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/children/4/children/73/children/74/context",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/approved/changes",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/3/approved/revision",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/2/approved/changes",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/2/approved/revision",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/2/context",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/children/2/scope",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/approved/changes",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/customPages/2",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/customPages/3",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/customPages/4",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/customPages/5",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/customPages/6",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/customPages/7",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/customPages/8",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/customPages/10",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/customPages/11",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/customPages/1",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/assets/1/2/14/asset",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/assets/1/2/14/content",
+		"/G/Drive/Atypon/~UX3/PB2 Backups/Extracted Backup/scopes/1/scope",
+		"/G/Drive/Atypon/ATS/PB2 Migration/pb-assets/scripts/thoracic2.js",
+		"/G/Drive/Atypon/ATS/PB2 Migration/pb-assets/scripts/thoracic.js",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/menu/templates/menu/menu-tmpl.jade",
+		"/G/Drive/Atypon/~UX3/head-meta.html",
+		"/C/Users/William/Downloads/will-ux3 (1).css",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/layout/templates/layout/layout-tmpl.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/multi-search/templates/multi-search/multi-search-tmpl.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/page-structure/structure/templates/structure/layout-tmpl.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/products/acm/templates/header/scss/header.scss",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/products/physio/templates/header/scss/header.scss",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/templates/header/scss/header.scss",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/products/nejm/widgets/article-widgets/publication-content/templates/publication-content-tmpl.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/shibboleth/templates/shibboleth/shibboleth-tmpl.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/raa/widgets/shibboleth-login/templates/shibboleth-login/shibboleth-login-tmpl.jade",
+		"/C/Atypon/source/lit-1730/atypon/product/templates/jsp/pb2/widgets/ux3-graphql/cookiePolicyPopup.graphql",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/exam-credit-claimed-confirmation/templates/exam-credit-claimed-confirmation/exam-credit-claimed-confirmation-tmpl.jade",
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/exam-credit-claim-email-failed/templates/exam-credit-claim-email-failed/exam-credit-claim-email-failed-tmpl.jade",
+		"/C/Atypon/source/lit-1730/atypon/product/midtier/conf/midtier.props.pb2.base.xml"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+			"*.xml",
+			"*.graphql",
+			"C:\\Atypon\\source\\lit-1730 *.graphql",
+			"*.graphql",
+			"",
+			"*.jsp",
+			"*.java",
+			"*widgets.xml",
+			"*.xml",
+			"*spring.xml",
+			"",
+			"*.xml",
+			"",
+			"C:\\Atypon\\source\\lit-1730",
+			"C:\\Atypon\\source\\github\\atypon\\styleguide\\ux3\\user\\specs\\ux3",
+			"C:\\Atypon\\source\\github\\atypon\\styleguide\\ux3\\user\\specs\\products",
+			"C:\\Atypon\\source\\github\\atypon\\styleguide\\ux3\\user\\specs",
+			"C:\\Atypon\\source\\github\\atypon\\styleguide\\ux3\\user\\specs\\products\\bandj",
+			"C:\\Atypon\\source\\github\\atypon\\styleguide\\ux3\\user\\specs\\products",
+			"C:\\Atypon\\source\\github\\atypon\\styleguide\\",
+			"C:\\Atypon\\source\\github\\atypon\\styleguide\\ux3\\user\\specs\\ux3",
+			"*.js",
+			"*-tmpl.jade",
+			"*.json",
+			"*.scss",
+			"*-tmpl.jade",
+			"*.scss",
+			"*.js",
+			"*.yaml",
+			"*.scss",
+			"index.jade",
+			"*-tmpl.jade",
+			"*.jade",
+			"*.xml",
+			"*.scss",
+			"",
+			"*.graphql",
+			"*.java",
+			"*.xsl",
+			"*.xml",
+			"",
+			"*.jsp",
+			"",
+			"*.yaml",
+			"*.scss",
+			"",
+			"*.xml",
+			"",
+			"*.xml",
+			"*.jsp",
+			"*.xml",
+			"*.jsp",
+			"*.xml",
+			"",
+			"*.xml",
+			"*.vm",
+			"*.js",
+			"*.jade",
+			"",
+			"*.less",
+			"*.xml",
+			"*.jade",
+			"*-tmpl.jade",
+			"*.xml",
+			"*.scss",
+			"*-tmpl.jade",
+			"*.scss",
+			"*-tmpl.jade",
+			"*.xml",
+			"*-tmpl.jade",
+			"*.xml",
+			"*.jsp",
+			"*.xml",
+			"*.jsp",
+			"",
+			"*.jsp",
+			"*.xml",
+			"",
+			"*.java",
+			"*.xml",
+			"*.jsp",
+			"*.xml",
+			"",
+			"*.xsl",
+			"",
+			"*.xml",
+			"",
+			"*.xml",
+			"~/api/",
+			"../api/",
+			"",
+			"*.xml",
+			"*.jsp",
+			"/pb2/spring",
+			"*.xml"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"define",
+			"Generic Widget",
+			"xslt",
+			"pageBuilderJspRenderer",
+			"renderer-ref",
+			"define-widget",
+			"quick search",
+			"<pb:define-widget ",
+			"Physiology.org",
+			"html",
+			"archive",
+			", crumbs.",
+			"push({crumbs.",
+			"crumbs.",
+			"crumbs.Archive",
+			"book-data",
+			"Book Title (linked to the book TOC)",
+			"crumbs.SiteHome",
+			"crumb",
+			"crumbs.SiteHome",
+			"SiteHome",
+			"crumbs.SiteHome",
+			"SiteHome",
+			"heading",
+			"coverDate",
+			"Purchase Options",
+			"type-subscriptions",
+			"widget-2025",
+			"/action/ecommerce",
+			"<pb:define-widget ",
+			"pb:define *\\([label]\\)",
+			"pWidget\"",
+			"pb:define *widget\"",
+			"pb:define * widget\"",
+			"widget\"",
+			"widget",
+			"html",
+			"sortOptionsList",
+			"new search results",
+			"tfa",
+			"two factor authentication",
+			"none secure session",
+			"Recommended Content",
+			"publicationFilterLabel",
+			"publicationFilter",
+			"ux3-autoSuggestOptions",
+			"advanced search",
+			"websiteAdmin/head-metadata",
+			"websiteAdmin/head-meta",
+			"height",
+			"shibboleth",
+			"rss",
+			"journal rss",
+			"\"journal rss\"",
+			"thing",
+			"image",
+			"mostRecentCover",
+			"(widget, image)",
+			"(image)",
+			"if data.content.type ==",
+			"Single - ",
+			"groupTitle",
+			"bookTitle",
+			"imageSource",
+			"cover image",
+			"$widget_includeMetaData",
+			"actions",
+			"cover image",
+			"enabled",
+			"submitcode",
+			"pub_pages_about",
+			"pb.render('dropzone')",
+			"confirmAddFavoritePublication.jsp",
+			"publicationCode",
+			"addOneFavorite",
+			"redirect",
+			"showCookiePolicy",
+			"SHOW_COOKIE_POLICY",
+			"block labels",
+			"have",
+			"creadit",
+			"pb.render",
+			"../../..",
+			"menu",
+			"require(\"moment\")",
+			"require('moment')",
+			"UX.",
+			"function",
+			"window",
+			"onClick",
+			"my-account",
+			"list",
+			"jsdom",
+			"thisWidget",
+			"exam.title",
+			"disclosureTitle",
+			".warning",
+			".warn",
+			"thisWidget.properties.showRelatedArticle",
+			"extends",
+			"true",
+			"phone",
+			"margin",
+			".hidden-text",
+			"hid",
+			"visibility: hidden",
+			"link",
+			"white_04",
+			"login",
+			"login-",
+			"login",
+			".icon-arrow_r",
+			"Sum",
+			"sum",
+			"each",
+			"var ",
+			"showExamRelatedArticle",
+			"showRelatedArticleLink",
+			"publishedDate",
+			"expiresDate",
+			"shibboleth",
+			"RelatedExam",
+			"   ",
+			"  ",
+			"render",
+			"pb:render",
+			"pbrender",
+			"pbrender date"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"  ",
+			"\\t",
+			"C:\\Atypon",
+			"",
+			".carousel",
+			"  ",
+			"&amp;",
+			"{ \\n",
+			"\\{ \\n",
+			"{ \\n",
+			"  ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".git/config",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 141.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "sleek-st.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"literatum-widgets",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\literatum\\literatum-widgets.xml"
+			],
+			[
+				"ux3widget",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-widgets.xml"
+			],
+			[
+				"slideshow-tmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\slideshow\\templates\\slideshow\\slideshow-tmpl.jade"
+			],
+			[
+				"midtier.props.raa.xml",
+				"lit-1730\\atypon\\product\\midtier\\conf\\midtier.props.raa.xml"
+			],
+			[
+				"pubcontentcover",
+				"~UX3\\pb-assets\\graphql\\pub-content-cover.pug"
+			],
+			[
+				"pub-content",
+				"~UX3\\pb-assets\\graphql\\pub-content-cover.graphql"
+			],
+			[
+				"banner.graph",
+				"~UX3\\pb-assets\\graphql\\journal-banner\\banner.graphql"
+			],
+			[
+				"banner",
+				"~UX3\\pb-assets\\graphql\\journal-banner\\banner.pug"
+			],
+			[
+				"searchresultgraph",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\ux3-graphql\\Discoverability\\search-results\\search-results.graphql"
+			],
+			[
+				"search-results-tmpl",
+				"Github Styleguide\\ux3\\user\\specs\\products\\nejm\\widgets\\search-results\\templates\\search-results-tmpl.jade"
+			],
+			[
+				"ux3-widgets",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-widgets.xml"
+			],
+			[
+				"articletoolsgraph",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\graphql\\articleTools\\articleTools.graphql"
+			],
+			[
+				"article-toolstmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\article-tools\\templates\\article-tools\\article-tools-tmpl.jade"
+			],
+			[
+				"quick-search-tmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\quick-search\\templates\\quick-search\\quick-search-tmpl.jade"
+			],
+			[
+				"ux3-widg",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-widgets.xml"
+			],
+			[
+				".hbs",
+				"Github Styleguide\\ux3\\user\\node_modules\\stylestats\\assets\\html.hbs"
+			],
+			[
+				"article-tmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\publication-content\\templates\\article\\article-tmpl.jade"
+			],
+			[
+				"ux3-lit",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-literatum-widgets.xml"
+			],
+			[
+				"ux3-lite",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-literatum-widgets.xml"
+			],
+			[
+				"ux3passport",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-passport-widgets.xml"
+			],
+			[
+				"ux3depr",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-deprecated-widgets.xml"
+			],
+			[
+				"breakpoint",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\variables\\aliases\\break-points.yaml"
+			],
+			[
+				"breadcrumbsjson",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\breadcrumbs\\info.json"
+			],
+			[
+				"breadcrumbstmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\breadcrumbs\\templates\\breadcrumbs\\breadcrumbs-tmpl.jade"
+			],
+			[
+				"ahahometmpl",
+				"Github Styleguide\\ux3\\user\\specs\\products\\aha\\components\\homepage-items\\templates\\multimedia-item-tmpl.jade"
+			],
+			[
+				"ux3litpb2_toc",
+				"lit-1730\\atypon\\product\\templates\\xsl\\_ux3\\LitPb2_TOC.xsl"
+			],
+			[
+				"acmtableofcontents.xsl",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\passport\\ContentGroup\\TableOfContents\\TableOfContents.xsl"
+			],
+			[
+				"tableofcontentjs",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\table-of-content\\js\\table-of-content.js"
+			],
+			[
+				"recommendlibrariantmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\recommend-to-librarian\\templates\\data\\data.json"
+			],
+			[
+				"xsl1",
+				"lit-1730\\atypon\\product\\templates\\xsl\\xsl1.xsl"
+			],
+			[
+				"toctitle",
+				"~UX3\\pb-assets\\graphql\\journal-banner\\toc_title.graphql"
+			],
+			[
+				"second",
+				"~UX3\\pb-assets\\graphql\\journal-banner\\secondary_nav.graphql"
+			],
+			[
+				"secondary",
+				"~UX3\\pb-assets\\graphql\\journal-banner\\secondary_nav.pug"
+			],
+			[
+				"ecommercexml",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\frontend\\ecommerce-widgets.xml"
+			],
+			[
+				"ux3-depr",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-deprecated-widgets.xml"
+			],
+			[
+				"midtier.props.pb2.ux3.xml",
+				"lit-1730\\atypon\\product\\midtier\\conf\\midtier.props.pb2.ux3.xml"
+			],
+			[
+				"passportpaginationsortcontrol.jsp",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\passport\\common\\paging\\paginationSortControl.jsp"
+			],
+			[
+				"/pb2/widgets/passport/common/paging/paginationsortcontrol.jsp",
+				"lit-1730\\atypon\\product\\templates\\jsp\\_style2\\_rsdTheme\\_asce\\pb2\\widgets\\passport\\common\\paging\\paginationSortControl.jsp"
+			],
+			[
+				"responsivesearchresultheader.jsp",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\passport\\common\\search\\responsiveSearchResultHeader.jsp"
+			],
+			[
+				"pb2/widgets/passport/search/newsearchresults.jsp",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\passport\\search\\newSearchResults.jsp"
+			],
+			[
+				"quick-searchtmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\quick-search\\templates\\quick-search\\quick-search-tmpl.jade"
+			],
+			[
+				"managealerttmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\manage-alerts\\templates\\manage-alerts\\manage-alerts-tmpl.jade"
+			],
+			[
+				"managealertgraph",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\ux3-graphql\\profiles\\manageAlert.graphql"
+			],
+			[
+				"menutmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\menu\\templates\\menu\\menu-tmpl.jade"
+			],
+			[
+				"ux3literatu",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-literatum-widgets.xml"
+			],
+			[
+				"head-m",
+				"~UX3\\head-meta.html"
+			],
+			[
+				"layouttmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\layout\\templates\\layout\\layout-tmpl.jade"
+			],
+			[
+				"multisearchtm",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\multi-search\\templates\\multi-search\\multi-search-tmpl.jade"
+			],
+			[
+				"acmheader.scss",
+				"Github Styleguide\\ux3\\user\\specs\\products\\acm\\templates\\header\\scss\\header.scss"
+			],
+			[
+				"ux3header.scss",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\templates\\header\\scss\\header.scss"
+			],
+			[
+				"physioheader.scss",
+				"Github Styleguide\\ux3\\user\\specs\\products\\physio\\templates\\header\\scss\\header.scss"
+			],
+			[
+				"articletmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\publication-content\\templates\\article\\article-tmpl.jade"
+			],
+			[
+				"publication-contenttmpl",
+				"Github Styleguide\\ux3\\user\\specs\\products\\nejm\\widgets\\article-widgets\\publication-content\\templates\\publication-content-tmpl.jade"
+			],
+			[
+				"cookiepolicypopup.graphql",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\ux3-graphql\\cookiePolicyPopup.graphql"
+			],
+			[
+				"shibboleth-logintmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\raa\\widgets\\shibboleth-login\\templates\\shibboleth-login\\shibboleth-login-tmpl.jade"
+			],
+			[
+				"shibbolethtmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\shibboleth\\templates\\shibboleth\\shibboleth-tmpl.jade"
+			],
+			[
+				"ux3widgetsxml",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-widgets.xml"
+			],
+			[
+				"examcreditclaimfailedtmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\exam-credit-claim-email-failed\\templates\\exam-credit-claim-email-failed\\exam-credit-claim-email-failed-tmpl.jade"
+			],
+			[
+				"exam-claim-credit",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\exam-credit-claimed-confirmation\\templates\\exam-credit-claimed-confirmation\\exam-credit-claimed-confirmation-tmpl.jade"
+			],
+			[
+				"parent-item-tmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\components\\parent-item\\templates\\parent-item\\parent-item-tmpl.jade"
+			],
+			[
+				"listofissuesextended",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\list-of-issues\\templates\\list-of-issues\\extended\\ext-parent-item-tmpl.jade"
+			],
+			[
+				"listofissuestmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\list-of-issues\\templates\\list-of-issues\\list-of-issues-tmpl.jade"
+			],
+			[
+				"ux3lockssipcontroller",
+				"lit-1730\\atypon\\bridge\\src\\java\\com\\atypon\\frontend\\widgets\\controllers\\ux3\\profile\\LockssIPController.java"
+			],
+			[
+				"ux3institutionbannercontroller",
+				"lit-1730\\atypon\\product\\ux3\\src\\java\\com\\atypon\\ux3\\frontend\\widgets\\controllers\\ux3\\UX3InstitutionBannerController.java"
+			],
+			[
+				"ux3widgets",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-widgets.xml"
+			],
+			[
+				"institution-bannertmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\institution-banner\\templates\\institution-banner\\institution-banner-tmpl.jade"
+			],
+			[
+				"institutionlockssipchange",
+				"lit-1720\\atypon\\publish\\src\\java\\com\\atypon\\publish\\action\\institution\\LockssIpChange.java"
+			],
+			[
+				"lockss",
+				"lit-1720\\atypon\\product\\templates\\jsp\\_style4\\institution\\lockssManager.jsp"
+			],
+			[
+				"locksstmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\lockss-ip\\templates\\lockss-ip\\lockss-ip-tmpl.jade"
+			],
+			[
+				"managealertgr",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\ux3-graphql\\profiles\\manageAlert.graphql"
+			],
+			[
+				"coverimagetmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\cover-image\\templates\\cover-image\\cover-image-tmpl.jade"
+			],
+			[
+				"ux3widgt",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-widgets.xml"
+			],
+			[
+				"examcertificteindex",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\templates\\exam-certificate\\index.jade"
+			],
+			[
+				"examcertificatetmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\exam-certificate\\templates\\exam-certificate\\exam-certificate-tmpl.jade"
+			],
+			[
+				"midtier.props.pb2.base.xml",
+				"lit-1720\\atypon\\product\\midtier\\conf\\midtier.props.pb2.base.xml"
+			],
+			[
+				"midtier.props.pb2.literatum.xml",
+				"lit-1720\\atypon\\product\\midtier\\conf\\midtier.props.pb2.literatum.xml"
+			],
+			[
+				"fsgjournal.scss",
+				"Github Styleguide\\ux3\\user\\specs\\products\\fsg\\templates\\journal\\scss\\journal.scss"
+			],
+			[
+				"bannerpug",
+				"~UX3\\pb-assets\\graphql\\journal-banner\\banner.pug"
+			],
+			[
+				"hometmpl",
+				"Github Styleguide\\ux3\\user\\specs\\products\\corp\\templates\\homepage\\templates\\homepage\\homepage-tmpl.jade"
+			],
+			[
+				"entitlementstmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\entitlements\\templates\\entitlements\\entitlements-tmpl.jade"
+			],
+			[
+				"confirmaddfavoritepublication.jsp",
+				"lit-1730\\atypon\\product\\templates\\jsp\\personalize\\confirmAddFavoritePublication.jsp"
+			],
+			[
+				"addfavoritepubl",
+				"lit-1720\\atypon\\publish\\src\\java\\com\\atypon\\publish\\action\\personalize\\AddFavoritePublication.java"
+			],
+			[
+				"userfavorite",
+				"lit-1730\\atypon\\literatum\\src\\java\\com\\atypon\\literatum\\acs\\user\\UserFavorite.java"
+			],
+			[
+				"actioncontext",
+				"lit-1730\\atypon\\literatum\\src\\java\\com\\atypon\\literatum\\action\\ActionContext.java"
+			],
+			[
+				"actionresponse",
+				"lit-1730\\atypon\\literatum\\src\\java\\com\\atypon\\literatum\\action\\ActionResponse.java"
+			],
+			[
+				"showpreferences",
+				"lit-1720\\atypon\\product\\marlin\\src\\java\\com\\atypon\\marlin\\frontend\\action\\ShowPreferences.java"
+			],
+			[
+				"favoritejava",
+				"lit-1730\\atypon\\bridge\\src\\java\\com\\atypon\\frontend\\widgets\\controllers\\profile\\FavoritesController.java"
+			],
+			[
+				"addfavoritepublication",
+				"lit-1730\\atypon\\publish\\src\\java\\com\\atypon\\publish\\action\\personalize\\AddFavoritePublication.java"
+			],
+			[
+				"literatum.props",
+				"lit-1730\\atypon\\literatum\\conf\\literatum.props.xml"
+			],
+			[
+				"/pb2/widgets/cookiepolicy.jsp",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\cookiePolicy.jsp"
+			],
+			[
+				"otherwidgets",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\common\\other-widgets.xml"
+			],
+			[
+				"literatumwidgets",
+				"lit-1730\\atypon\\literatum\\conf\\spring\\pb2\\literatum\\literatum-widgets.xml"
+			],
+			[
+				"cookiepolicyfilter",
+				"lit-1730\\atypon\\literatum\\src\\java\\com\\atypon\\modules\\servlet\\CookiePolicyFilter.java"
+			],
+			[
+				"examvm",
+				"lit-1720\\atypon\\product\\templates\\jsp\\email\\examCredit.html.vm"
+			],
+			[
+				"exam-item",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\components\\exam-item\\templates\\exam-item\\exam-item-tmpl.jade"
+			],
+			[
+				"completeexamgraph",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\ux3-graphql\\exams\\complete-exams.graphql"
+			],
+			[
+				"completed",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\completed-exams\\templates\\completed-exams\\completed-exams-tmpl.jade"
+			],
+			[
+				"showexamtmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\show-exam\\templates\\show-exam\\show-exam-tmpl.jade"
+			],
+			[
+				"examcreditclaimgraphql",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\ux3-graphql\\exams\\exam-credit-claimed.graphql"
+			],
+			[
+				"examcreditclaimfailedgraph",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\ux3-graphql\\exams\\exam-credit-claim-failed.graphql"
+			],
+			[
+				"examcreditclaimconfirm",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\exam-credit-claimed-confirmation\\templates\\exam-credit-claimed-confirmation\\exam-credit-claimed-confirmation-tmpl.jade"
+			],
+			[
+				"exam-certificate-tmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\exam-certificate\\templates\\exam-certificate\\exam-certificate-tmpl.jade"
+			],
+			[
+				"examcontentindex",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\templates\\exam-content\\index.jade"
+			],
+			[
+				"color-variables",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\variables\\yaml\\colors-variables.yaml"
+			],
+			[
+				"showexam.java",
+				"lit-1730\\atypon\\publish\\src\\java\\com\\atypon\\publish\\action\\exam\\ShowExam.java"
+			],
+			[
+				"showexamcontroller",
+				"lit-1730\\atypon\\bridge\\src\\java\\com\\atypon\\frontend\\widgets\\controllers\\contentDisplay\\ShowExamController.java"
+			],
+			[
+				"ux3liter",
+				"lit-1720\\atypon\\literatum\\conf\\spring\\pb2\\ux3\\ux3-literatum-widgets.xml"
+			],
+			[
+				"exams-dis",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\exams-disclosure\\templates\\exams-disclosure\\exams-disclosure-tmpl.jade"
+			],
+			[
+				"show-exam-tmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\show-exam\\templates\\show-exam\\show-exam-tmpl.jade"
+			],
+			[
+				"completed-examsdat",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\completed-exams\\templates\\data\\data.json"
+			],
+			[
+				"exam-item-tmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\components\\exam-item\\templates\\exam-item\\exam-item-tmpl.jade"
+			],
+			[
+				"completed-exams",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\completed-exams\\templates\\completed-exams\\completed-exams-tmpl.jade"
+			],
+			[
+				"exam-list-tmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\exam-list\\templates\\exam-list\\exam-list-tmpl.jade"
+			],
+			[
+				"footerjson",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\templates\\footer\\templates\\data\\footer.json"
+			],
+			[
+				"data-form.json",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\show-exam\\templates\\data\\data-form.json"
+			],
+			[
+				"exam-listindex.jade",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\templates\\exam-list\\index.jade"
+			],
+			[
+				"exams-discl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\exams-disclosure\\templates\\exams-disclosure\\exams-disclosure-tmpl.jade"
+			],
+			[
+				"exam-di",
+				"Github Styleguide\\ux3\\user\\specs\\products\\nejm\\widgets\\cme\\exam-disclosure\\templates\\exam-disclosure-tmpl.jade"
+			],
+			[
+				"exams-disclo",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\exams-disclosure\\templates\\exams-disclosure\\exams-disclosure-title-only-tmpl.jade"
+			],
+			[
+				"color-variables.yaml",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\variables\\yaml\\colors-variables.yaml"
+			],
+			[
+				"colors.yaml",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\variables\\aliases\\colors.yaml"
+			],
+			[
+				"exam-disclosure-tmp",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\exams-disclosure\\templates\\exams-disclosure\\exams-disclosure-tmpl.jade"
+			],
+			[
+				"exam-disclosure",
+				"lit-1730\\atypon\\product\\templates\\jsp\\pb2\\widgets\\ux3-graphql\\exams\\exam-disclosure.graphql"
+			],
+			[
+				"user-login-bar",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\user-login-bar\\scss\\user-login-bar.scss"
+			],
+			[
+				"break-points",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\variables\\aliases\\break-points.yaml"
+			],
+			[
+				"html-tmpl",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\html\\templates\\html\\html-tmpl.jade"
+			],
+			[
+				"shared-widg",
+				"Github Styleguide\\ux3\\user\\specs\\ux3\\widgets\\shared-widget\\templates\\shared-widget\\shared-widget-tmpl.jade"
+			],
+			[
+				"spacing",
+				"Github Styleguide\\ux3\\user\\specs\\utility\\spacing\\scss\\spacing.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"G:\\Dev\\Hackernews\\hackernews-sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 377.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
