@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "C:\\tools\\ruby24\\lib\\ruby\\gems\\2.4.0\\gems"
 		}
 	]
 }

@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 gemspec
-gem 'jekyll-maps'
+gem 'jekyll-maps', '2.3.0'
 gem 'jekyll-feed'
