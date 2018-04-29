@@ -6,7 +6,7 @@ categories: prep
 author: will
 description: "Updates on our progress of preparing the RV for full-time living."
 featured-img: "preparing-the-rv2"
-image: "/assets/img/posts/preparing-the-rv/preparing-the-rv2"
+image: "/assets/img/posts/preparing-the-rv/preparing-the-rv2.jpg"
 asset-src: "preparing-the-rv"
 ---
 ## Preparing the RV for full-time living

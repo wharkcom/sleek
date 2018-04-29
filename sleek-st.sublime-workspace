@@ -112,10 +112,11 @@
 	"buffers":
 	[
 		{
-			"file": ".git/config",
+			"file": "_posts/2018-04-26-preparing-the-rv.md",
 			"settings":
 			{
-				"buffer_size": 692,
+				"buffer_size": 8179,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -352,6 +353,13 @@
 	],
 	"file_history":
 	[
+		"/D/Dev/Jekyll/sleek/_config.yml",
+		"/D/Dev/Jekyll/sleek/_pages/current-location.md",
+		"/D/Dev/Jekyll/sleek/Gemfile.lock",
+		"/D/Dev/Jekyll/sleek/Gemfile",
+		"/D/Dev/Jekyll/sleek/_includes/footer.html",
+		"/D/Dev/Jekyll/sleek/gulpfile.js",
+		"/D/Dev/Jekyll/sleek/.git/config",
 		"/D/Drive/Documents/Games/Battle Net Recovery.txt",
 		"/D/Drive/Atypon/Great Bug Responses.txt",
 		"/C/Atypon/source/lit-1730/atypon/literatum/conf/spring/pb2/common/graphql-prototypes.xml",
@@ -472,24 +480,18 @@
 		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/page-structure/structure/templates/structure/layout-tmpl.jade",
 		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/products/acm/templates/header/scss/header.scss",
 		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/products/physio/templates/header/scss/header.scss",
-		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/templates/header/scss/header.scss",
-		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/products/nejm/widgets/article-widgets/publication-content/templates/publication-content-tmpl.jade",
-		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/shibboleth/templates/shibboleth/shibboleth-tmpl.jade",
-		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/raa/widgets/shibboleth-login/templates/shibboleth-login/shibboleth-login-tmpl.jade",
-		"/C/Atypon/source/lit-1730/atypon/product/templates/jsp/pb2/widgets/ux3-graphql/cookiePolicyPopup.graphql",
-		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/exam-credit-claimed-confirmation/templates/exam-credit-claimed-confirmation/exam-credit-claimed-confirmation-tmpl.jade",
-		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/widgets/exam-credit-claim-email-failed/templates/exam-credit-claim-email-failed/exam-credit-claim-email-failed-tmpl.jade",
-		"/C/Atypon/source/lit-1730/atypon/product/midtier/conf/midtier.props.pb2.base.xml"
+		"/C/Atypon/source/github/atypon/styleguide/ux3/user/specs/ux3/templates/header/scss/header.scss"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
 		"height": 131.0,
 		"where_history":
 		[
+			"",
 			"*.xml",
 			"*.graphql",
 			"C:\\Atypon\\source\\lit-1730 *.graphql",
@@ -592,6 +594,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"zoom",
+			"facebook",
+			"1",
+			"RV ladde",
+			"show",
+			"rv-show",
+			"wharkcomAtypon",
 			"define",
 			"Generic Widget",
 			"xslt",
@@ -712,14 +721,7 @@
 			"showRelatedArticleLink",
 			"publishedDate",
 			"expiresDate",
-			"shibboleth",
-			"RelatedExam",
-			"   ",
-			"  ",
-			"render",
-			"pb:render",
-			"pbrender",
-			"pbrender date"
+			"shibboleth"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -754,28 +756,28 @@
 			[
 				{
 					"buffer": 0,
-					"file": ".git/config",
+					"file": "_posts/2018-04-26-preparing-the-rv.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 692,
+						"buffer_size": 8179,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								40,
+								40
 							]
 						],
 						"settings":
 						{
 							"incomplete_sync": null,
+							"open_with_edit": true,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1388,7 +1390,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 377.0,
+	"side_bar_width": 399.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
