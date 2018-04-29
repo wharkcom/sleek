@@ -21,6 +21,11 @@
           <i class="fab fa-facebook fa-3x"></i>
         </a>
       {% endif %}
+      {% if site.youtube_username %}
+        <a class="social__link" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/{{ site.youtube_username }}" title="Youtube">
+          <i class="fab fa-youtube fa-3x"></i>
+        </a>
+      {% endif %}
       <a class="social__link" title="Current Location" href="/current-location/">
         <i class="fas fa-map-marker fa-3x"></i>
       </a>
