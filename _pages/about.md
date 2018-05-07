@@ -19,7 +19,11 @@ permalink: /about/
 Our truck is a 2011 Dodge Ram 3500 Laramie edition.
 
 # The RV
-Coming soon!
+Our 5th wheel RV is a 2011 Keystone Montana 2955RL.
+
+<div class="embed-responsive">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zEvU5_bzMrA" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+</div>
 
 # The Site
 This site is built on the Sleek theme for Jekyll. You can find the source code for Sleek at GitHub:
