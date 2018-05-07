@@ -115,7 +115,7 @@
 			"file": "_posts/2018-04-26-preparing-the-rv.md",
 			"settings":
 			{
-				"buffer_size": 8179,
+				"buffer_size": 8183,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -484,7 +484,7 @@
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -760,15 +760,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8179,
+						"buffer_size": 8183,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								40,
-								40
+								282,
+								282
 							]
 						],
 						"settings":
